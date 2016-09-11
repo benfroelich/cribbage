@@ -1,0 +1,9 @@
+Cribbage board Notes
+2016-09-10
+https://www.google.com/search?q=MAX7219&ie=utf-8&oe=utf-8
+http://forum.allaboutcircuits.com/threads/led-cribbage-board.53602/
+http://forum.allaboutcircuits.com/threads/electronic-cribbage-board.78506/
+
+FRAM (NVM) MSP?
+LED driver IC which handled the strobing of bits?
+LCD or paper screen for game control?
